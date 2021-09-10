@@ -1,0 +1,88 @@
+lecture 1 07-09-2021
+
+lecturer name: Henrik Lange
+email: hela@mmmi.sdu.com - Contact if any questions
+cand polyt sofware engineering
+
+three use words
+	useful
+	usable
+	used
+
+it is so obvious - everything is obvious when you know it
+
+book: spint by jake knapp
+
+matchede teamer for design
+
+
+project:
+	group size max 6 people
+	previous weeks work is built on next week
+	inspiration is okay - needs to be unique though
+
+tools:
+	Figma
+	Miro
+		Digital post-its and whiteboard - use it instead of rl post-its
+
+The Team:
+	The Facilitator
+		Ask permission to sprint
+		clear agenda
+		always be capturing
+		Ask stupid questions
+		Snacks and drinks
+		Make sure breaks are taken
+		Facilitate decisions and progress
+		Make sure we are moving forward
+	The Decider
+		Ceo or someone that decided the project should be made
+		Should be there all week - or minimally at key points
+	7 People or less
+	Who should we bring:
+		more people are allowed if the sprint is shorter
+		Monday is the day where we need most people
+		Bring the troublemaker
+		Typical people:
+			Business analyst
+			Finance
+			Marketing
+			User prepresentative
+				Research, sales, custoemr, support, etc.
+			Tech expert
+				CTO, engineer
+			Design expert
+				Designer, product manager
+Time and Space
+	Sprint rules:
+		No devices
+			Unless digital meeting or breaks
+		5 Days
+		Same room all week
+			Same whiteboard
+			take picutres as backup
+	Time boxing:
+		The could habe timestamps
+		Every conversation , group task and activtity should be timed
+	The room
+	The online room
+		USe miro
+			Setup accounts before next week
+
+Till next week:
+	Read page 19-91 + 235-240 in sprint
+	Checklist:
+		Sort out groups
+		Appoint facilitator and decider
+		think of ideas for portfolio
+		setup accounts and projects in miro and figma
+	
+Exam:
+	Hand in portfolio
+	Pick examples from portfolio and present it to the exam
+
+
+Links from the lecture:
+	Designsystem.dk
+	interaction-design.org
