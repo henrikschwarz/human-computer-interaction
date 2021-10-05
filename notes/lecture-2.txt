@@ -1,0 +1,80 @@
+lecture 2 14-09-2021 - Learn, map deliminate
+
+Introduce yourself
+	Short and to the point
+	Relevant information
+		Who are you
+		Where are you from
+		What is your role
+	What is your role in the team
+
+Sprint rules:
+	Dont jugde!!!!
+	Other rules:
+		Stay positive
+		Stay productive	
+		Stay put
+
+Long term goals
+	What is the end goal of the orgranisation
+	What is the end goal of the product
+	Where are we in 1 year? 5 years? 10 years?
+Risks
+	Risks
+		What could go wrong
+	Goals
+		What is the best that could happen
+	If you reverse the phrasing of a risk it becomes a goal and vice versa
+
+Sprint questions
+	Set a space aside
+	Think of a couple
+
+Map
+	Start with the ending
+	List of users and goals
+	List of objectives
+	Select primary actor and goal
+	Add steps from actor to goal
+	Henrik prefers to start with a list user roles first
+	Keep the map simple
+		5-15 steps is usually optimal
+		Keep each step title level
+	Map can be made in powerpoint
+		Can be easier to quickly change things than on paper
+
+Personas
+	You will probably find out that there is a difference in users 
+	There is a difference in how users use the system
+	Find the archetypes
+	Give users their role as name (dont use names like "normal user")
+	When you look it at creates value for the costumer you look at what
+	 creates value for the customer and the user
+	Focus on the most relevant users
+
+Persona content
+	Only use details for a persona that is relevant to the system
+	Use bullet points or visuals instead of long text
+
+Expert interviews
+	Someone who knows the customer or the project
+	Could be:
+		Engineers
+		Customer support
+		User researcher
+		Sales
+		Marketing
+		Project managers (or former)
+	Downside: Could be biased oppinion
+	Be ready to change everything
+	Ask about:
+		Success criteria
+		Risks
+		Advantages
+		How things work
+	When it makes sense ask WHY
+	Make HMW notes (How Might We)
+
+Organize
+	Expert interview is over -> put HMW notes on the wall	
+

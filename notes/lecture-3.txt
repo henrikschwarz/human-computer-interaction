@@ -1,0 +1,72 @@
+lecture 3 28-08-09
+User journey should be user focused on the user, not on your business case
+
+Risks:
+	Not done in time
+		Weight feature cost/profit
+		Cost of delay
+	Not being able to acquire printers
+	Fee is too high
+	Transaction is not secure
+		Maybe add the product as a thing in the transaction
+		Maybe go more in depth with transaction process
+
+Sketching
+	Sketches are not meant to be pretty
+	your sketches matter
+		even the simplest sketch can kick start your process
+	ALWAYS sketch on paper
+		The person with the fanciest drawing tool (like a tablet)
+		becomes automatically an authority in the design process which
+		we dont want.
+
+Lightning demos
+	The process
+		Make a list of demo system candidates
+		Select 1-2 subsystems write them on a whiteboard
+		Give a 3 minute demo
+		Draw the best ideas
+			new component new paper
+			new idea new paper
+			Make sure the demo the presenter is most important
+			excited about is drawn
+	Divide or swarm
+		Divide into groups
+		If eveyone is focused on same idea: Swarm
+	Notes
+		Take some time (maybe 20 min) and look at what you have made
+		Start the thinking process
+	Ideas
+		Spend 20 minutes roughing out ideas
+
+Crazy 8s
+	Fold paper into 8 sections
+	Draw 8 sketches in 8 minutes
+	Some ideas suck - draw them anyway
+		So you dont get stuck on a bad idea
+	Forces you to think fast
+	Hernik comment: The first drawing almost never ends in the end product
+		So draw alot
+
+	Solution sketch
+		Select your best idea
+		IF multiple steps : draw them
+
+Present sketches
+	Book recommends anonymous sketches - Henrik disagrees
+		Engineers present ideas
+	Sometimes you have someone who is more convincing than others
+		IF that is the case then you need to even it out.
+		If it is yourself (like Henrik) then be concious about it and
+		talk your ideas alittle down so others also get involved
+	Iterate
+		Make a second iteration after you saw the first sketches
+		Should be faster than first round of sketches
+		Only do one more iteration
+If you make designs:
+	User input fields (like username and password) should auto fill
+	themselves.
+
+Portfolio:
+	A slide shpw you update every week
+	Is gonna be used for the exam at the end of the semester.

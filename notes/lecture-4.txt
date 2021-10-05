@@ -1,0 +1,78 @@
+lecture 4 05-10-2021 - Decisions and storyboard
+
+
+Feedback and recap:
+	frontend vs backend
+		stop complaining, good backend is useless without good frontend
+		design process stops confusion - if you only talk about things people
+		have different ideas about how the product looks like
+	End product will probably end up not that pretty
+	Remember to send the results for the day to Henrik
+
+Present eachothers ideas
+	Let facilitator present - avoids the most well spoken/captivating person
+	to push through and convince people
+	If the facilitator doesnt present let 1-2 other people do it
+
+Decisions
+	Democracy is great, but not in a sprint - the decider decides
+		If not the decision will porperly be changed later
+	The decide decides the final solution
+	If no natural decider - roll a dice twice to select 2
+		Pick ideas that maybe cant co-exist so you get a rumble later
+
+A good designer not someone who is good at designing, but someone who is good at
+coming to a design.
+
+Rumble
+	Several prototypes are built to let different user variables
+	Lets you pick best solution
+	The purpose of this is to let more people of the team work on the things
+	The purpose of testing is not to decide features, but to verify ideas
+	and use cases
+	
+
+Storyboard
+	Divide a board into 15 slides
+	Story = specify the user journey
+	Start with the first square
+		Start outside the product
+			If an app start in app store
+			if a website start at a websearch
+	The last square = what the user is trying to accomplish
+		If a shop end with "your order is on the way"
+		If it is a game end with "you won" or "game over"
+	Can be 10 of the same "screen" but just where they do different things
+	Login system
+		Credibility
+			If low credibility (game platform) use other logins like
+			facebook or google gmail
+			If high you can use a traditional login system
+	You can make the storyboard event driven
+		If you clik on one thing you go one way and if you click on
+		another thing you go some other way
+		Just make sure that you dont branch into two branches
+			Make sure they reconnect FAST
+	If you split up
+		one deicer in each group
+		one storyboard per group
+	When done
+		see if there is overlap
+		Two ways:
+			does it make sense to make two prototypes
+			good indicator is if someone disagress -> make two
+			protoypes
+
+Make things in different complexities
+	Make it hard to get to the complex functionality
+		Makes sure that advanced user have the functionality
+		Makes sure the novice users dont accidently encounter advanced
+		usage		
+
+Naming
+	Take 5 mintues to write names on post-its
+		if it is stupid then write it anyway
+		select names after
+	Make sure they sound the same
+	First impression is important
+
