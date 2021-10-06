@@ -31,7 +31,6 @@ Rumble
 	The purpose of testing is not to decide features, but to verify ideas
 	and use cases
 	
-
 Storyboard
 	Divide a board into 15 slides
 	Story = specify the user journey
