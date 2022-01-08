@@ -1,0 +1,8 @@
+lecture 5 12-10-2021
+prototype is the simplest version that you can test
+	use figma
+	use keynote and powerpoint
+		screenshot components from bootstrap
+		make a simple design
+POP prototyping on paper - fast prototyping for mobile devices
+
